@@ -1,6 +1,6 @@
 package com.example.authorizationv2.repository;
 
-import entity.User;
+import com.example.authorizationv2.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

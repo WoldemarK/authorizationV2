@@ -1,8 +1,8 @@
 package com.example.authorizationv2.security;
 
 import com.example.authorizationv2.repository.UserRepository;
-import entity.Role;
-import entity.User;
+import com.example.authorizationv2.entity.Role;
+import com.example.authorizationv2.entity.User;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

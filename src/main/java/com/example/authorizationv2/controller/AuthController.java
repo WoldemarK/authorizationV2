@@ -3,7 +3,7 @@ package com.example.authorizationv2.controller;
 
 import com.example.authorizationv2.dto.UserDto;
 import com.example.authorizationv2.service.UserService;
-import entity.User;
+import com.example.authorizationv2.entity.User;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
